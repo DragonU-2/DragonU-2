@@ -1,5 +1,7 @@
 ### Hi there 👋
+My name is Roark Martin. I grew up in Eastern Iowa and have been an Iowa State Fan since I was very young. I am interested in learning more basics of coding and improving on my coding skills. My favorite hobby at the moment is Brazillian Jiu Jitsu, I have also been spending some time building model aircraft. 
 
+📫 How to reach me: roarkm@iastate.edu
 <!--
 **DragonU-2/DragonU-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
